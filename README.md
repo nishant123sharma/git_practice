@@ -1,4 +1,4 @@
 # git_practice
-this is second Git repository
+this is  my second Git repository
 <br>
 Author - Nishant Sharma
